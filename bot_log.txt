@@ -1,0 +1,1155 @@
+2023-09-04 18:15:03,629 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:16:08,759 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:18:40,315 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:19:38,560 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:38:33,150 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:43:05,871 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:43:59,125 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 18:58:41,799 - ERROR - Error executing sell order: name 'quantity' is not defined
+2023-09-04 19:00:22,622 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:27:51,075 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:28:51,555 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:29:52,029 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:30:52,667 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:31:53,321 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:32:53,962 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:33:56,162 - ERROR - Error executing buy order: name 'quantity' is not defined
+2023-09-04 21:37:02,841 - INFO - Buy order executed: 239 shares of LBRT
+2023-09-04 21:38:04,610 - INFO - Buy order executed: 235 shares of LBRT
+2023-09-04 21:39:05,708 - INFO - Buy order executed: 230 shares of LBRT
+2023-09-04 21:41:44,617 - INFO - Buy order executed: 239 shares of LBRT
+2023-09-04 21:42:45,866 - INFO - Buy order executed: 235 shares of LBRT
+2023-09-04 21:53:07,973 - INFO - Sell order executed: 90 shares of ALK
+2023-09-04 22:03:14,210 - ERROR - Error executing buy order: cannot open a long buy while a short sell order is open
+2023-09-04 22:03:45,853 - ERROR - Error executing buy order: cannot open a long buy while a short sell order is open
+2023-09-05 23:12:16,503 - INFO - Buy order executed: 98 shares of ALK
+2023-09-05 23:13:18,355 - INFO - Buy order executed: 96 shares of ALK
+2023-09-05 23:13:20,095 - INFO - Buy order executed: 33 shares of XOM
+2023-09-05 23:13:44,157 - INFO - Buy order executed: 22 shares of CVX
+2023-09-05 23:14:20,509 - INFO - Buy order executed: 90 shares of ALK
+2023-09-05 23:14:22,085 - INFO - Buy order executed: 31 shares of XOM
+2023-09-05 23:14:46,090 - INFO - Buy order executed: 21 shares of CVX
+2023-09-05 23:14:49,897 - INFO - Buy order executed: 27 shares of COP
+2023-09-05 23:15:22,459 - INFO - Buy order executed: 83 shares of ALK
+2023-09-05 23:15:24,098 - INFO - Buy order executed: 28 shares of XOM
+2023-09-05 23:15:48,094 - INFO - Buy order executed: 19 shares of CVX
+2023-09-05 23:15:52,258 - INFO - Buy order executed: 25 shares of COP
+2023-09-05 23:16:24,654 - INFO - Buy order executed: 77 shares of ALK
+2023-09-05 23:16:26,116 - INFO - Buy order executed: 26 shares of XOM
+2023-09-05 23:16:50,215 - INFO - Buy order executed: 18 shares of CVX
+2023-09-05 23:16:54,310 - INFO - Buy order executed: 23 shares of COP
+2023-09-05 23:17:26,888 - INFO - Buy order executed: 71 shares of ALK
+2023-09-05 23:17:28,473 - INFO - Buy order executed: 24 shares of XOM
+2023-09-05 23:17:51,861 - INFO - Buy order executed: 42 shares of CNQ
+2023-09-05 23:17:52,169 - INFO - Buy order executed: 16 shares of CVX
+2023-09-05 23:17:56,015 - INFO - Buy order executed: 21 shares of COP
+2023-09-05 23:18:29,052 - INFO - Buy order executed: 65 shares of ALK
+2023-09-05 23:18:30,497 - INFO - Buy order executed: 22 shares of XOM
+2023-09-05 23:18:53,933 - INFO - Buy order executed: 38 shares of CNQ
+2023-09-05 23:18:54,015 - INFO - Buy order executed: 15 shares of CVX
+2023-09-05 23:18:58,099 - INFO - Buy order executed: 19 shares of COP
+2023-09-05 23:19:30,926 - INFO - Buy order executed: 58 shares of ALK
+2023-09-05 23:19:32,547 - INFO - Buy order executed: 20 shares of XOM
+2023-09-05 23:19:55,908 - INFO - Buy order executed: 34 shares of CNQ
+2023-09-05 23:19:55,909 - INFO - Buy order executed: 13 shares of CVX
+2023-09-05 23:20:00,062 - INFO - Buy order executed: 17 shares of COP
+2023-09-05 23:20:32,731 - INFO - Buy order executed: 53 shares of ALK
+2023-09-05 23:20:34,491 - INFO - Buy order executed: 18 shares of XOM
+2023-09-05 23:20:57,736 - INFO - Buy order executed: 31 shares of CNQ
+2023-09-05 23:20:57,942 - INFO - Buy order executed: 12 shares of CVX
+2023-09-05 23:21:01,911 - INFO - Buy order executed: 64 shares of LUV
+2023-09-05 23:21:01,911 - INFO - Buy order executed: 15 shares of COP
+2023-09-05 23:21:34,650 - INFO - Buy order executed: 47 shares of ALK
+2023-09-05 23:21:36,661 - INFO - Buy order executed: 16 shares of XOM
+2023-09-05 23:21:59,906 - INFO - Buy order executed: 10 shares of CVX
+2023-09-05 23:21:59,914 - INFO - Buy order executed: 27 shares of CNQ
+2023-09-05 23:22:03,922 - INFO - Buy order executed: 14 shares of COP
+2023-09-05 23:22:03,922 - INFO - Buy order executed: 57 shares of LUV
+2023-09-05 23:22:36,810 - INFO - Buy order executed: 41 shares of ALK
+2023-09-05 23:22:38,679 - INFO - Buy order executed: 14 shares of XOM
+2023-09-05 23:23:02,025 - INFO - Buy order executed: 24 shares of CNQ
+2023-09-05 23:23:02,332 - INFO - Buy order executed: 9 shares of CVX
+2023-09-05 23:23:05,916 - INFO - Buy order executed: 51 shares of LUV
+2023-09-05 23:23:05,918 - INFO - Buy order executed: 12 shares of COP
+2023-09-05 23:23:38,941 - INFO - Buy order executed: 37 shares of ALK
+2023-09-05 23:23:40,409 - INFO - Buy order executed: 12 shares of XOM
+2023-09-05 23:24:04,008 - INFO - Buy order executed: 22 shares of CNQ
+2023-09-05 23:24:04,230 - INFO - Buy order executed: 8 shares of CVX
+2023-09-05 23:24:07,767 - INFO - Buy order executed: 45 shares of LUV
+2023-09-05 23:24:07,768 - INFO - Buy order executed: 11 shares of COP
+2023-09-05 23:24:40,979 - INFO - Buy order executed: 33 shares of ALK
+2023-09-05 23:24:42,196 - INFO - Buy order executed: 11 shares of XOM
+2023-09-05 23:25:06,134 - INFO - Buy order executed: 19 shares of CNQ
+2023-09-05 23:25:06,429 - INFO - Buy order executed: 7 shares of CVX
+2023-09-05 23:25:09,410 - INFO - Buy order executed: 40 shares of LUV
+2023-09-05 23:25:09,410 - INFO - Buy order executed: 9 shares of COP
+2023-09-05 23:25:43,439 - INFO - Buy order executed: 29 shares of ALK
+2023-09-05 23:25:44,635 - INFO - Buy order executed: 10 shares of XOM
+2023-09-05 23:26:08,392 - INFO - Buy order executed: 6 shares of CVX
+2023-09-05 23:26:08,392 - INFO - Buy order executed: 17 shares of CNQ
+2023-09-05 23:26:11,463 - INFO - Buy order executed: 8 shares of COP
+2023-09-05 23:26:11,465 - INFO - Buy order executed: 35 shares of LUV
+2023-09-05 23:26:45,461 - INFO - Buy order executed: 26 shares of ALK
+2023-09-05 23:26:46,586 - INFO - Buy order executed: 9 shares of XOM
+2023-09-05 23:27:10,549 - INFO - Buy order executed: 15 shares of CNQ
+2023-09-05 23:27:10,550 - INFO - Buy order executed: 6 shares of CVX
+2023-09-05 23:27:13,539 - INFO - Buy order executed: 31 shares of LUV
+2023-09-05 23:27:13,540 - INFO - Buy order executed: 7 shares of COP
+2023-09-05 23:27:40,858 - INFO - Buy order executed: 32 shares of CAG
+2023-09-05 23:27:47,627 - INFO - Buy order executed: 22 shares of ALK
+2023-09-05 23:27:48,434 - INFO - Buy order executed: 7 shares of XOM
+2023-09-05 23:28:12,781 - INFO - Buy order executed: 13 shares of CNQ
+2023-09-05 23:28:12,966 - INFO - Buy order executed: 5 shares of CVX
+2023-09-05 23:28:15,286 - INFO - Buy order executed: 6 shares of COP
+2023-09-05 23:28:15,290 - INFO - Buy order executed: 27 shares of LUV
+2023-09-05 23:28:43,077 - INFO - Buy order executed: 28 shares of CAG
+2023-09-05 23:38:11,021 - INFO - Buy order executed: 20 shares of ALK
+2023-09-05 23:39:13,368 - INFO - Buy order executed: 20 shares of ALK
+2023-09-05 23:40:15,435 - INFO - Buy order executed: 33 shares of ALK
+2023-09-05 23:41:17,383 - INFO - Buy order executed: 32 shares of ALK
+2023-09-05 23:46:58,814 - INFO - Buy order executed: 62 shares of LUV
+2023-09-05 23:48:09,825 - ERROR - 
+1 Failed download:
+2023-09-05 23:48:09,826 - ERROR - ['LUV']: Exception('%ticker%: No price data found, symbol may be delisted (1d 2023-01-01 -> 2023-09-05)')
+2023-09-05 23:57:31,951 - INFO - Buy order executed: 93 shares of LUV
+2023-09-05 23:58:33,999 - INFO - Buy order executed: 91 shares of LUV
+2023-09-05 23:59:35,952 - INFO - Buy order executed: 89 shares of LUV
+2023-09-06 00:00:38,445 - INFO - Buy order executed: 88 shares of LUV
+2023-09-06 00:01:41,017 - INFO - Buy order executed: 86 shares of LUV
+2023-09-06 00:02:43,439 - INFO - Buy order executed: 84 shares of LUV
+2023-09-06 00:03:45,800 - INFO - Buy order executed: 82 shares of LUV
+2023-09-06 00:04:47,852 - INFO - Buy order executed: 81 shares of LUV
+2023-09-06 00:05:50,004 - INFO - Buy order executed: 79 shares of LUV
+2023-09-06 20:23:30,558 - INFO - Buy order executed: 263 shares of LUV
+2023-09-06 20:24:40,645 - INFO - Buy order executed: 120 shares of OXY
+2023-09-06 20:24:49,296 - INFO - Sell order executed: 258 shares of LUV
+2023-09-06 20:25:39,802 - INFO - Buy order executed: 120 shares of SHEL
+2023-09-06 20:25:42,885 - INFO - Buy order executed: 113 shares of OXY
+2023-09-06 20:25:51,600 - INFO - Sell order executed: 243 shares of LUV
+2023-09-06 20:26:25,116 - INFO - Buy order executed: 265 shares of MRO
+2023-09-06 20:26:42,156 - INFO - Buy order executed: 111 shares of SHEL
+2023-09-06 20:26:44,925 - INFO - Buy order executed: 105 shares of OXY
+2023-09-06 20:26:54,057 - INFO - Sell order executed: 224 shares of LUV
+2023-09-06 20:27:05,208 - INFO - Buy order executed: 114 shares of IMO
+2023-09-06 20:27:27,333 - INFO - Buy order executed: 240 shares of MRO
+2023-09-06 20:27:32,053 - INFO - Buy order executed: 185 shares of SU
+2023-09-06 20:27:44,545 - INFO - Buy order executed: 98 shares of SHEL
+2023-09-06 20:27:47,003 - INFO - Buy order executed: 93 shares of OXY
+2023-09-06 20:27:56,063 - INFO - Sell order executed: 199 shares of LUV
+2023-09-06 20:28:07,265 - INFO - Buy order executed: 101 shares of IMO
+2023-09-06 20:28:29,189 - INFO - Buy order executed: 212 shares of MRO
+2023-09-06 20:28:33,723 - INFO - Buy order executed: 164 shares of SU
+2023-09-06 20:28:46,637 - INFO - Buy order executed: 87 shares of SHEL
+2023-09-06 20:28:48,978 - INFO - Buy order executed: 82 shares of OXY
+2023-09-06 20:28:57,835 - INFO - Sell order executed: 176 shares of LUV
+2023-09-06 20:29:09,552 - INFO - Buy order executed: 89 shares of IMO
+2023-09-06 20:29:31,265 - INFO - Buy order executed: 188 shares of MRO
+2023-09-06 20:29:36,283 - INFO - Buy order executed: 145 shares of SU
+2023-09-06 20:29:39,458 - INFO - Sell order executed: 119 shares of ALK
+2023-09-06 20:29:48,673 - INFO - Buy order executed: 76 shares of SHEL
+2023-09-06 20:29:51,155 - INFO - Buy order executed: 71 shares of OXY
+2023-09-06 20:30:00,128 - INFO - Sell order executed: 153 shares of LUV
+2023-09-06 20:30:11,651 - INFO - Buy order executed: 77 shares of IMO
+2023-09-06 20:30:33,532 - INFO - Buy order executed: 164 shares of MRO
+2023-09-06 20:30:38,658 - INFO - Buy order executed: 126 shares of SU
+2023-09-06 20:30:41,731 - INFO - Sell order executed: 104 shares of ALK
+2023-09-06 20:30:51,055 - INFO - Buy order executed: 66 shares of SHEL
+2023-09-06 20:30:53,217 - INFO - Buy order executed: 62 shares of OXY
+2023-09-06 20:31:02,615 - INFO - Sell order executed: 133 shares of LUV
+2023-09-06 20:31:13,779 - INFO - Buy order executed: 67 shares of IMO
+2023-09-06 20:31:35,551 - INFO - Buy order executed: 142 shares of MRO
+2023-09-06 20:31:40,711 - INFO - Buy order executed: 110 shares of SU
+2023-09-06 20:31:43,783 - INFO - Sell order executed: 90 shares of ALK
+2023-09-06 20:31:53,291 - INFO - Buy order executed: 57 shares of SHEL
+2023-09-06 20:31:55,484 - INFO - Buy order executed: 54 shares of OXY
+2023-09-06 20:32:04,672 - INFO - Sell order executed: 115 shares of LUV
+2023-09-06 20:32:15,951 - INFO - Buy order executed: 58 shares of IMO
+2023-09-06 20:32:37,647 - INFO - Buy order executed: 123 shares of MRO
+2023-09-06 20:32:42,798 - INFO - Buy order executed: 95 shares of SU
+2023-09-06 20:32:46,045 - INFO - Sell order executed: 78 shares of ALK
+2023-09-06 20:32:55,561 - INFO - Buy order executed: 49 shares of SHEL
+2023-09-06 20:32:57,630 - INFO - Buy order executed: 47 shares of OXY
+2023-09-06 20:33:06,526 - INFO - Sell order executed: 100 shares of LUV
+2023-09-06 20:33:18,098 - INFO - Buy order executed: 51 shares of IMO
+2023-09-06 20:33:39,736 - INFO - Buy order executed: 107 shares of MRO
+2023-09-06 20:33:44,944 - INFO - Buy order executed: 83 shares of SU
+2023-09-06 20:33:48,179 - INFO - Sell order executed: 68 shares of ALK
+2023-09-06 20:33:57,739 - INFO - Buy order executed: 43 shares of SHEL
+2023-09-06 20:33:59,448 - INFO - Buy order executed: 40 shares of OXY
+2023-09-06 20:34:08,994 - INFO - Sell order executed: 87 shares of LUV
+2023-09-06 20:34:20,191 - INFO - Buy order executed: 44 shares of IMO
+2023-09-06 20:34:42,303 - INFO - Buy order executed: 93 shares of MRO
+2023-09-06 20:34:46,991 - INFO - Buy order executed: 72 shares of SU
+2023-09-06 20:34:50,103 - INFO - Sell order executed: 59 shares of ALK
+2023-09-06 20:35:00,146 - INFO - Buy order executed: 37 shares of SHEL
+2023-09-06 20:35:01,777 - INFO - Buy order executed: 35 shares of OXY
+2023-09-06 20:35:11,261 - INFO - Sell order executed: 76 shares of LUV
+2023-09-06 20:35:22,534 - INFO - Buy order executed: 38 shares of IMO
+2023-09-06 20:35:44,649 - INFO - Buy order executed: 81 shares of MRO
+2023-09-06 20:35:49,257 - INFO - Buy order executed: 62 shares of SU
+2023-09-06 20:35:52,226 - INFO - Sell order executed: 51 shares of ALK
+2023-09-06 20:36:02,214 - INFO - Buy order executed: 32 shares of SHEL
+2023-09-06 20:36:03,897 - INFO - Buy order executed: 30 shares of OXY
+2023-09-06 20:36:13,423 - INFO - Sell order executed: 66 shares of LUV
+2023-09-06 20:36:24,482 - INFO - Buy order executed: 33 shares of IMO
+2023-09-06 20:36:47,013 - INFO - Buy order executed: 70 shares of MRO
+2023-09-06 20:36:51,326 - INFO - Buy order executed: 54 shares of SU
+2023-09-06 20:36:54,182 - INFO - Sell order executed: 44 shares of ALK
+2023-09-06 20:37:04,279 - INFO - Buy order executed: 28 shares of SHEL
+2023-09-06 20:37:06,286 - INFO - Buy order executed: 26 shares of OXY
+2023-09-06 20:37:15,489 - INFO - Sell order executed: 57 shares of LUV
+2023-09-06 20:37:26,460 - INFO - Buy order executed: 29 shares of IMO
+2023-09-06 20:37:49,278 - INFO - Buy order executed: 61 shares of MRO
+2023-09-06 20:37:54,894 - INFO - Buy order executed: 47 shares of SU
+2023-09-06 20:37:56,710 - INFO - Sell order executed: 39 shares of ALK
+2023-09-06 20:38:07,092 - INFO - Buy order executed: 24 shares of SHEL
+2023-09-06 20:38:08,964 - INFO - Buy order executed: 23 shares of OXY
+2023-09-06 20:38:17,747 - INFO - Sell order executed: 50 shares of LUV
+2023-09-06 20:38:29,322 - INFO - Buy order executed: 25 shares of IMO
+2023-09-06 20:38:51,748 - INFO - Buy order executed: 53 shares of MRO
+2023-09-06 20:38:57,345 - INFO - Buy order executed: 41 shares of SU
+2023-09-06 20:38:59,019 - INFO - Sell order executed: 34 shares of ALK
+2023-09-06 20:39:10,103 - INFO - Buy order executed: 21 shares of SHEL
+2023-09-06 20:39:11,586 - INFO - Buy order executed: 20 shares of OXY
+2023-09-06 20:39:19,825 - INFO - Sell order executed: 43 shares of LUV
+2023-09-06 20:39:31,575 - INFO - Buy order executed: 22 shares of IMO
+2023-09-06 20:39:53,932 - INFO - Buy order executed: 46 shares of MRO
+2023-09-06 20:39:59,580 - INFO - Buy order executed: 35 shares of SU
+2023-09-06 20:40:01,260 - INFO - Sell order executed: 29 shares of ALK
+2023-09-06 20:40:12,112 - INFO - Buy order executed: 18 shares of SHEL
+2023-09-06 20:40:13,852 - INFO - Buy order executed: 17 shares of OXY
+2023-09-06 20:40:22,563 - INFO - Sell order executed: 37 shares of LUV
+2023-09-06 20:40:33,815 - INFO - Buy order executed: 19 shares of IMO
+2023-09-06 20:40:56,039 - INFO - Buy order executed: 40 shares of MRO
+2023-09-06 20:41:01,509 - INFO - Buy order executed: 31 shares of SU
+2023-09-06 20:41:03,140 - INFO - Sell order executed: 25 shares of ALK
+2023-09-06 20:41:14,261 - INFO - Buy order executed: 16 shares of SHEL
+2023-09-06 20:41:16,138 - INFO - Buy order executed: 15 shares of OXY
+2023-09-06 20:41:24,595 - INFO - Sell order executed: 32 shares of LUV
+2023-09-06 20:41:36,003 - INFO - Buy order executed: 16 shares of IMO
+2023-09-06 20:41:57,900 - INFO - Buy order executed: 35 shares of MRO
+2023-09-06 20:42:03,812 - INFO - Buy order executed: 27 shares of SU
+2023-09-06 20:42:05,603 - INFO - Sell order executed: 22 shares of ALK
+2023-09-06 20:42:16,328 - INFO - Buy order executed: 14 shares of SHEL
+2023-09-06 20:42:18,152 - INFO - Buy order executed: 13 shares of OXY
+2023-09-06 20:42:26,640 - INFO - Sell order executed: 28 shares of LUV
+2023-09-06 20:42:38,008 - INFO - Buy order executed: 14 shares of IMO
+2023-09-06 20:43:00,082 - INFO - Buy order executed: 30 shares of MRO
+2023-09-06 20:43:06,097 - INFO - Buy order executed: 23 shares of SU
+2023-09-06 20:43:07,926 - INFO - Sell order executed: 19 shares of ALK
+2023-09-06 20:43:18,649 - INFO - Buy order executed: 12 shares of SHEL
+2023-09-06 20:43:19,782 - INFO - Buy order executed: 11 shares of OXY
+2023-09-06 20:43:28,527 - INFO - Sell order executed: 25 shares of LUV
+2023-09-06 20:43:39,954 - INFO - Buy order executed: 12 shares of IMO
+2023-09-06 20:44:02,291 - INFO - Buy order executed: 26 shares of MRO
+2023-09-06 20:44:08,215 - INFO - Buy order executed: 20 shares of SU
+2023-09-06 20:44:09,986 - INFO - Sell order executed: 17 shares of ALK
+2023-09-06 20:44:20,613 - INFO - Buy order executed: 10 shares of SHEL
+2023-09-06 20:44:21,550 - INFO - Buy order executed: 10 shares of OXY
+2023-09-06 20:44:30,559 - INFO - Sell order executed: 21 shares of LUV
+2023-09-06 20:44:42,213 - INFO - Buy order executed: 11 shares of IMO
+2023-09-06 20:45:04,639 - INFO - Buy order executed: 23 shares of MRO
+2023-09-06 20:45:10,490 - INFO - Buy order executed: 18 shares of SU
+2023-09-06 20:45:12,010 - INFO - Sell order executed: 14 shares of ALK
+2023-09-06 20:45:22,455 - INFO - Buy order executed: 9 shares of SHEL
+2023-09-06 20:45:23,609 - INFO - Buy order executed: 8 shares of OXY
+2023-09-06 20:45:32,522 - INFO - Sell order executed: 19 shares of LUV
+2023-09-06 20:45:44,268 - INFO - Buy order executed: 9 shares of IMO
+2023-09-06 20:46:06,720 - INFO - Buy order executed: 20 shares of MRO
+2023-09-06 20:46:13,259 - INFO - Buy order executed: 15 shares of SU
+2023-09-06 20:46:14,457 - INFO - Sell order executed: 13 shares of ALK
+2023-09-06 20:46:24,635 - INFO - Buy order executed: 8 shares of SHEL
+2023-09-06 20:46:25,896 - INFO - Buy order executed: 7 shares of OXY
+2023-09-06 20:46:34,649 - INFO - Sell order executed: 16 shares of LUV
+2023-09-06 20:46:46,343 - INFO - Buy order executed: 8 shares of IMO
+2023-09-06 20:47:08,966 - INFO - Buy order executed: 17 shares of MRO
+2023-09-06 20:47:15,251 - INFO - Buy order executed: 13 shares of SU
+2023-09-06 20:47:16,432 - INFO - Sell order executed: 11 shares of ALK
+2023-09-06 20:47:26,668 - INFO - Buy order executed: 7 shares of SHEL
+2023-09-06 20:47:27,999 - INFO - Buy order executed: 6 shares of OXY
+2023-09-06 20:47:36,805 - INFO - Sell order executed: 14 shares of LUV
+2023-09-06 20:47:48,619 - INFO - Buy order executed: 7 shares of IMO
+2023-09-06 20:48:10,904 - INFO - Buy order executed: 15 shares of MRO
+2023-09-06 20:48:17,390 - INFO - Buy order executed: 12 shares of SU
+2023-09-06 20:48:18,484 - INFO - Sell order executed: 9 shares of ALK
+2023-09-06 20:48:29,848 - INFO - Buy order executed: 6 shares of SHEL
+2023-09-06 20:48:31,003 - INFO - Buy order executed: 6 shares of OXY
+2023-09-06 20:48:38,756 - INFO - Sell order executed: 12 shares of LUV
+2023-09-06 20:48:50,737 - INFO - Buy order executed: 6 shares of IMO
+2023-09-06 20:49:13,184 - INFO - Buy order executed: 13 shares of MRO
+2023-09-06 20:49:19,533 - INFO - Buy order executed: 10 shares of SU
+2023-09-06 20:49:20,474 - INFO - Sell order executed: 8 shares of ALK
+2023-09-06 20:49:31,961 - INFO - Buy order executed: 5 shares of SHEL
+2023-09-06 20:49:32,927 - INFO - Buy order executed: 5 shares of OXY
+2023-09-06 20:49:40,915 - INFO - Sell order executed: 11 shares of LUV
+2023-09-06 20:49:53,328 - INFO - Buy order executed: 5 shares of IMO
+2023-09-06 20:50:15,562 - INFO - Buy order executed: 12 shares of MRO
+2023-09-06 20:50:21,595 - INFO - Buy order executed: 9 shares of SU
+2023-09-06 20:50:22,304 - INFO - Sell order executed: 7 shares of ALK
+2023-09-06 20:50:40,615 - INFO - Buy order executed: 4 shares of OXY
+2023-09-06 20:50:40,615 - INFO - Buy order executed: 4 shares of SHEL
+2023-09-06 20:50:43,277 - INFO - Sell order executed: 9 shares of LUV
+2023-09-06 20:50:55,697 - INFO - Buy order executed: 5 shares of IMO
+2023-09-06 20:51:17,747 - INFO - Buy order executed: 10 shares of MRO
+2023-09-06 21:28:42,875 - INFO - Buy order executed: 4 shares of IMO
+2023-09-15 00:06:50,811 - INFO - Buy order executed: 118 shares of OXY
+2023-09-15 00:07:48,770 - INFO - Buy order executed: 65 shares of XOM
+2023-09-15 00:07:52,313 - INFO - Buy order executed: 113 shares of OXY
+2023-09-15 00:08:11,195 - INFO - Buy order executed: 44 shares of CVX
+2023-09-15 00:08:50,007 - INFO - Buy order executed: 61 shares of XOM
+2023-09-15 00:08:53,425 - INFO - Buy order executed: 106 shares of OXY
+2023-09-15 00:09:02,841 - INFO - Sell order executed: 244 shares of LUV
+2023-09-15 00:09:12,436 - INFO - Buy order executed: 41 shares of CVX
+2023-09-15 00:09:31,887 - INFO - Buy order executed: 173 shares of ALK
+2023-09-15 00:09:51,243 - INFO - Buy order executed: 56 shares of XOM
+2023-09-15 00:09:54,622 - INFO - Buy order executed: 96 shares of OXY
+2023-09-15 00:10:01,358 - INFO - Buy order executed: 1146 shares of ULCC
+2023-09-15 00:10:04,146 - INFO - Sell order executed: 216 shares of LUV
+2023-09-15 00:10:13,695 - INFO - Buy order executed: 36 shares of CVX
+2023-09-15 00:10:28,807 - INFO - Buy order executed: 48 shares of COP
+2023-09-15 00:10:33,431 - INFO - Buy order executed: 150 shares of ALK
+2023-09-15 00:10:52,755 - INFO - Buy order executed: 48 shares of XOM
+2023-09-15 00:10:55,961 - INFO - Buy order executed: 83 shares of OXY
+2023-09-15 00:11:02,505 - INFO - Buy order executed: 996 shares of ULCC
+2023-09-15 00:11:04,213 - INFO - Buy order executed: 138 shares of BP
+2023-09-15 00:11:05,893 - INFO - Sell order executed: 184 shares of LUV
+2023-09-15 00:11:15,007 - INFO - Buy order executed: 31 shares of CVX
+2023-09-15 00:11:30,266 - INFO - Buy order executed: 41 shares of COP
+2023-09-15 00:11:34,770 - INFO - Buy order executed: 128 shares of ALK
+2023-09-15 00:11:54,228 - INFO - Buy order executed: 41 shares of XOM
+2023-09-15 00:11:57,230 - INFO - Buy order executed: 71 shares of OXY
+2023-09-15 00:12:03,682 - INFO - Buy order executed: 849 shares of ULCC
+2023-09-15 00:12:05,697 - INFO - Buy order executed: 118 shares of BP
+2023-09-15 00:12:07,334 - INFO - Sell order executed: 157 shares of LUV
+2023-09-15 00:12:16,551 - INFO - Buy order executed: 26 shares of CVX
+2023-09-15 00:12:31,809 - INFO - Buy order executed: 35 shares of COP
+2023-09-15 00:12:36,212 - INFO - Buy order executed: 109 shares of ALK
+2023-09-15 00:12:55,670 - INFO - Buy order executed: 35 shares of XOM
+2023-09-15 00:12:58,535 - INFO - Buy order executed: 60 shares of OXY
+2023-09-15 00:13:04,963 - INFO - Buy order executed: 723 shares of ULCC
+2023-09-15 00:13:07,137 - INFO - Buy order executed: 100 shares of BP
+2023-09-15 00:13:08,645 - INFO - Sell order executed: 134 shares of LUV
+2023-09-15 00:13:17,991 - INFO - Buy order executed: 22 shares of CVX
+2023-09-15 00:13:33,037 - INFO - Buy order executed: 29 shares of COP
+2023-09-15 00:13:37,448 - INFO - Buy order executed: 92 shares of ALK
+2023-09-15 00:13:57,066 - INFO - Buy order executed: 30 shares of XOM
+2023-09-15 00:13:59,721 - INFO - Buy order executed: 51 shares of OXY
+2023-09-15 00:14:06,425 - INFO - Buy order executed: 616 shares of ULCC
+2023-09-15 00:14:08,679 - INFO - Buy order executed: 85 shares of BP
+2023-09-15 00:14:10,045 - INFO - Sell order executed: 114 shares of LUV
+2023-09-15 00:14:19,291 - INFO - Buy order executed: 19 shares of CVX
+2023-09-15 00:14:34,450 - INFO - Buy order executed: 25 shares of COP
+2023-09-15 00:14:38,856 - INFO - Buy order executed: 79 shares of ALK
+2023-09-15 00:14:58,685 - INFO - Buy order executed: 25 shares of XOM
+2023-09-15 00:15:01,003 - INFO - Buy order executed: 44 shares of OXY
+2023-09-15 00:15:07,966 - INFO - Buy order executed: 525 shares of ULCC
+2023-09-15 00:15:10,114 - INFO - Buy order executed: 73 shares of BP
+2023-09-15 00:15:11,345 - INFO - Sell order executed: 97 shares of LUV
+2023-09-15 00:15:20,666 - INFO - Buy order executed: 16 shares of CVX
+2023-09-15 00:15:35,895 - INFO - Buy order executed: 21 shares of COP
+2023-09-15 00:15:40,221 - INFO - Buy order executed: 67 shares of ALK
+2023-09-15 00:16:00,104 - INFO - Buy order executed: 21 shares of XOM
+2023-09-15 00:16:02,441 - INFO - Buy order executed: 37 shares of OXY
+2023-09-15 00:16:09,818 - INFO - Buy order executed: 448 shares of ULCC
+2023-09-15 00:16:11,384 - INFO - Buy order executed: 62 shares of BP
+2023-09-15 00:16:12,783 - INFO - Sell order executed: 83 shares of LUV
+2023-09-15 00:16:22,102 - INFO - Buy order executed: 14 shares of CVX
+2023-09-15 00:16:37,460 - INFO - Buy order executed: 18 shares of COP
+2023-09-15 00:16:41,656 - INFO - Buy order executed: 57 shares of ALK
+2023-09-15 00:17:01,524 - INFO - Buy order executed: 18 shares of XOM
+2023-09-15 00:17:03,878 - INFO - Buy order executed: 32 shares of OXY
+2023-09-15 00:17:11,148 - INFO - Buy order executed: 381 shares of ULCC
+2023-09-15 00:17:12,788 - INFO - Buy order executed: 53 shares of BP
+2023-09-15 00:17:14,328 - INFO - Sell order executed: 70 shares of LUV
+2023-09-15 00:17:23,539 - INFO - Buy order executed: 11 shares of CVX
+2023-09-15 00:17:38,847 - INFO - Buy order executed: 15 shares of COP
+2023-09-15 00:17:42,994 - INFO - Buy order executed: 49 shares of ALK
+2023-09-15 00:18:02,860 - INFO - Buy order executed: 15 shares of XOM
+2023-09-15 00:18:05,317 - INFO - Buy order executed: 27 shares of OXY
+2023-09-15 00:18:12,347 - INFO - Buy order executed: 326 shares of ULCC
+2023-09-15 00:18:14,196 - INFO - Buy order executed: 45 shares of BP
+2023-09-15 00:18:15,621 - INFO - Sell order executed: 60 shares of LUV
+2023-09-15 00:18:24,991 - INFO - Buy order executed: 10 shares of CVX
+2023-09-15 00:18:40,132 - INFO - Buy order executed: 13 shares of COP
+2023-09-15 00:18:44,432 - INFO - Buy order executed: 41 shares of ALK
+2023-09-15 00:19:04,400 - INFO - Buy order executed: 13 shares of XOM
+2023-09-15 00:19:06,675 - INFO - Buy order executed: 23 shares of OXY
+2023-09-15 00:19:13,651 - INFO - Buy order executed: 278 shares of ULCC
+2023-09-15 00:19:15,563 - INFO - Buy order executed: 38 shares of BP
+2023-09-15 00:19:16,893 - INFO - Sell order executed: 51 shares of LUV
+2023-09-15 00:19:26,623 - INFO - Buy order executed: 8 shares of CVX
+2023-09-15 00:19:41,571 - INFO - Buy order executed: 11 shares of COP
+2023-09-15 00:19:46,040 - INFO - Buy order executed: 35 shares of ALK
+2023-09-15 00:20:06,353 - INFO - Buy order executed: 11 shares of XOM
+2023-09-15 00:20:07,989 - INFO - Buy order executed: 20 shares of OXY
+2023-09-15 00:20:14,951 - INFO - Buy order executed: 237 shares of ULCC
+2023-09-15 00:20:17,172 - INFO - Buy order executed: 33 shares of BP
+2023-09-15 00:20:18,230 - INFO - Sell order executed: 44 shares of LUV
+2023-09-15 00:20:27,962 - INFO - Buy order executed: 7 shares of CVX
+2023-09-15 00:20:42,909 - INFO - Buy order executed: 9 shares of COP
+2023-09-15 00:20:47,340 - INFO - Buy order executed: 30 shares of ALK
+2023-09-15 00:21:07,893 - INFO - Buy order executed: 9 shares of XOM
+2023-09-15 00:21:09,429 - INFO - Buy order executed: 17 shares of OXY
+2023-09-15 00:21:16,393 - INFO - Buy order executed: 203 shares of ULCC
+2023-09-15 00:21:18,543 - INFO - Buy order executed: 28 shares of BP
+2023-09-15 00:21:19,875 - INFO - Sell order executed: 37 shares of LUV
+2023-09-15 00:21:29,601 - INFO - Buy order executed: 6 shares of CVX
+2023-09-15 00:21:44,244 - INFO - Buy order executed: 8 shares of COP
+2023-09-15 00:21:48,676 - INFO - Buy order executed: 26 shares of ALK
+2023-09-15 00:22:09,762 - INFO - Buy order executed: 8 shares of XOM
+2023-09-15 00:22:10,683 - INFO - Buy order executed: 14 shares of OXY
+2023-09-15 00:22:17,831 - INFO - Buy order executed: 174 shares of ULCC
+2023-09-15 00:22:19,951 - INFO - Buy order executed: 24 shares of BP
+2023-09-15 00:22:21,314 - INFO - Sell order executed: 32 shares of LUV
+2023-09-15 00:22:31,141 - INFO - Buy order executed: 5 shares of CVX
+2023-09-15 00:22:45,582 - INFO - Buy order executed: 7 shares of COP
+2023-09-15 00:22:49,880 - INFO - Buy order executed: 22 shares of ALK
+2023-09-15 00:23:11,146 - INFO - Buy order executed: 7 shares of XOM
+2023-09-15 00:23:11,961 - INFO - Buy order executed: 12 shares of OXY
+2023-09-15 00:23:19,063 - INFO - Buy order executed: 149 shares of ULCC
+2023-09-15 00:23:21,318 - INFO - Buy order executed: 20 shares of BP
+2023-09-15 00:23:22,955 - INFO - Sell order executed: 27 shares of LUV
+2023-09-15 00:23:32,582 - INFO - Buy order executed: 4 shares of CVX
+2023-09-15 00:23:47,019 - INFO - Buy order executed: 6 shares of COP
+2023-09-15 00:23:51,322 - INFO - Buy order executed: 19 shares of ALK
+2023-09-15 00:24:12,461 - INFO - Buy order executed: 6 shares of XOM
+2023-09-15 00:24:13,235 - INFO - Buy order executed: 10 shares of OXY
+2023-09-15 00:24:20,302 - INFO - Buy order executed: 127 shares of ULCC
+2023-09-15 00:24:22,737 - INFO - Buy order executed: 17 shares of BP
+2023-09-15 00:24:24,295 - INFO - Sell order executed: 23 shares of LUV
+2023-09-15 00:24:33,986 - INFO - Buy order executed: 3 shares of CVX
+2023-09-15 00:24:48,459 - INFO - Buy order executed: 5 shares of COP
+2023-09-15 00:24:52,762 - INFO - Buy order executed: 16 shares of ALK
+2023-09-15 00:25:13,844 - INFO - Buy order executed: 5 shares of XOM
+2023-09-15 00:25:14,572 - INFO - Buy order executed: 9 shares of OXY
+2023-09-15 00:25:21,638 - INFO - Buy order executed: 109 shares of ULCC
+2023-09-15 00:25:24,197 - INFO - Buy order executed: 15 shares of BP
+2023-09-15 00:25:25,835 - INFO - Sell order executed: 20 shares of LUV
+2023-09-15 00:25:35,263 - INFO - Buy order executed: 3 shares of CVX
+2023-09-15 00:25:49,822 - INFO - Buy order executed: 4 shares of COP
+2023-09-15 00:25:54,202 - INFO - Buy order executed: 14 shares of ALK
+2023-09-15 00:26:15,198 - INFO - Buy order executed: 4 shares of XOM
+2023-09-15 00:26:15,812 - INFO - Buy order executed: 7 shares of OXY
+2023-09-15 00:26:22,770 - INFO - Buy order executed: 94 shares of ULCC
+2023-09-15 00:26:25,637 - INFO - Buy order executed: 13 shares of BP
+2023-09-15 00:26:27,379 - INFO - Sell order executed: 17 shares of LUV
+2023-09-15 00:26:36,528 - INFO - Buy order executed: 2 shares of CVX
+2023-09-15 00:26:51,134 - INFO - Buy order executed: 3 shares of COP
+2023-09-15 00:26:55,640 - INFO - Buy order executed: 12 shares of ALK
+2023-09-15 00:27:16,557 - INFO - Buy order executed: 3 shares of XOM
+2023-09-15 00:27:17,146 - INFO - Buy order executed: 6 shares of OXY
+2023-09-15 00:27:24,211 - INFO - Buy order executed: 81 shares of ULCC
+2023-09-15 00:27:27,692 - INFO - Buy order executed: 11 shares of BP
+2023-09-15 00:27:28,819 - INFO - Sell order executed: 15 shares of LUV
+2023-09-15 00:27:37,933 - INFO - Buy order executed: 2 shares of CVX
+2023-09-15 00:27:52,470 - INFO - Buy order executed: 3 shares of COP
+2023-09-15 00:27:57,081 - INFO - Buy order executed: 10 shares of ALK
+2023-09-15 00:28:17,886 - INFO - Buy order executed: 3 shares of XOM
+2023-09-15 00:28:18,483 - INFO - Buy order executed: 5 shares of OXY
+2023-09-15 00:28:25,648 - INFO - Buy order executed: 70 shares of ULCC
+2023-09-15 00:28:29,131 - INFO - Buy order executed: 9 shares of BP
+2023-09-15 00:28:30,236 - INFO - Sell order executed: 13 shares of LUV
+2023-09-15 00:28:39,373 - INFO - Buy order executed: 2 shares of CVX
+2023-09-15 00:28:53,688 - INFO - Buy order executed: 2 shares of COP
+2023-09-15 00:28:58,422 - INFO - Buy order executed: 9 shares of ALK
+2023-09-15 00:29:19,308 - INFO - Buy order executed: 2 shares of XOM
+2023-09-15 00:29:19,719 - INFO - Buy order executed: 5 shares of OXY
+2023-09-15 00:29:27,295 - INFO - Buy order executed: 61 shares of ULCC
+2023-09-15 00:29:30,471 - INFO - Buy order executed: 8 shares of BP
+2023-09-15 00:29:31,523 - INFO - Sell order executed: 11 shares of LUV
+2023-09-15 00:29:40,811 - INFO - Buy order executed: 1 shares of CVX
+2023-09-15 00:29:55,147 - INFO - Buy order executed: 2 shares of COP
+2023-09-15 00:29:59,755 - INFO - Buy order executed: 8 shares of ALK
+2023-09-15 00:30:20,656 - INFO - Buy order executed: 2 shares of XOM
+2023-09-15 00:30:21,056 - INFO - Buy order executed: 4 shares of OXY
+2023-09-15 00:30:28,633 - INFO - Buy order executed: 53 shares of ULCC
+2023-09-15 00:30:31,844 - INFO - Buy order executed: 7 shares of BP
+2023-09-15 00:30:32,934 - INFO - Sell order executed: 9 shares of LUV
+2023-09-15 00:30:42,252 - INFO - Buy order executed: 1 shares of CVX
+2023-09-15 00:30:56,588 - INFO - Buy order executed: 2 shares of COP
+2023-09-15 00:31:01,194 - INFO - Buy order executed: 6 shares of ALK
+2023-09-15 00:31:21,985 - INFO - Buy order executed: 2 shares of XOM
+2023-09-15 00:31:22,234 - INFO - Buy order executed: 3 shares of OXY
+2023-09-15 00:31:30,045 - INFO - Buy order executed: 46 shares of ULCC
+2023-09-15 00:31:33,319 - INFO - Buy order executed: 6 shares of BP
+2023-09-15 00:31:34,373 - INFO - Sell order executed: 8 shares of LUV
+2023-09-15 00:31:43,863 - INFO - Buy order executed: 1 shares of CVX
+2023-09-15 00:31:57,959 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:32:02,533 - INFO - Buy order executed: 6 shares of ALK
+2023-09-15 00:32:23,321 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:32:23,333 - INFO - Buy order executed: 3 shares of OXY
+2023-09-15 00:32:31,309 - INFO - Buy order executed: 40 shares of ULCC
+2023-09-15 00:32:34,618 - INFO - Buy order executed: 5 shares of BP
+2023-09-15 00:32:35,712 - INFO - Sell order executed: 7 shares of LUV
+2023-09-15 00:32:45,440 - INFO - Buy order executed: 1 shares of CVX
+2023-09-15 00:32:59,366 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:33:03,974 - INFO - Buy order executed: 5 shares of ALK
+2023-09-15 00:33:24,576 - INFO - Buy order executed: 3 shares of OXY
+2023-09-15 00:33:24,619 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:33:32,751 - INFO - Buy order executed: 35 shares of ULCC
+2023-09-15 00:33:35,893 - INFO - Buy order executed: 4 shares of BP
+2023-09-15 00:33:37,051 - INFO - Sell order executed: 6 shares of LUV
+2023-09-15 00:33:46,981 - INFO - Buy order executed: 1 shares of CVX
+2023-09-15 00:34:00,805 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:34:05,413 - INFO - Buy order executed: 4 shares of ALK
+2023-09-15 00:34:25,832 - INFO - Buy order executed: 2 shares of OXY
+2023-09-15 00:34:25,835 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:34:34,188 - INFO - Buy order executed: 31 shares of ULCC
+2023-09-15 00:34:37,153 - INFO - Buy order executed: 4 shares of BP
+2023-09-15 00:34:38,452 - INFO - Sell order executed: 5 shares of LUV
+2023-09-15 00:34:48,627 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:35:02,247 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:35:06,855 - INFO - Buy order executed: 4 shares of ALK
+2023-09-15 00:35:27,128 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:35:27,128 - INFO - Buy order executed: 2 shares of OXY
+2023-09-15 00:35:35,630 - INFO - Buy order executed: 27 shares of ULCC
+2023-09-15 00:35:38,736 - INFO - Buy order executed: 3 shares of BP
+2023-09-15 00:35:39,827 - INFO - Sell order executed: 5 shares of LUV
+2023-09-15 00:35:50,170 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:36:03,691 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:36:08,295 - INFO - Buy order executed: 3 shares of ALK
+2023-09-15 00:36:28,386 - INFO - Buy order executed: 2 shares of OXY
+2023-09-15 00:36:28,673 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:36:36,936 - INFO - Buy order executed: 24 shares of ULCC
+2023-09-15 00:36:40,051 - INFO - Buy order executed: 3 shares of BP
+2023-09-15 00:36:41,164 - INFO - Sell order executed: 4 shares of LUV
+2023-09-15 00:36:51,507 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:37:05,025 - INFO - Buy order executed: 1 shares of COP
+2023-09-15 00:37:09,735 - INFO - Buy order executed: 3 shares of ALK
+2023-09-15 00:37:29,661 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:37:29,900 - INFO - Buy order executed: 1 shares of XOM
+2023-09-15 00:37:38,201 - INFO - Buy order executed: 21 shares of ULCC
+2023-09-15 00:37:41,463 - INFO - Buy order executed: 3 shares of BP
+2023-09-15 00:37:42,363 - INFO - Sell order executed: 4 shares of LUV
+2023-09-15 00:37:52,914 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:38:06,467 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:38:11,279 - INFO - Buy order executed: 2 shares of ALK
+2023-09-15 00:38:30,880 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:38:31,090 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:38:39,643 - INFO - Buy order executed: 19 shares of ULCC
+2023-09-15 00:38:42,751 - INFO - Buy order executed: 2 shares of BP
+2023-09-15 00:38:43,526 - INFO - Sell order executed: 3 shares of LUV
+2023-09-15 00:38:54,126 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:39:07,804 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:39:12,537 - INFO - Buy order executed: 2 shares of ALK
+2023-09-15 00:39:32,167 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:39:32,241 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:39:40,981 - INFO - Buy order executed: 18 shares of ULCC
+2023-09-15 00:39:43,960 - INFO - Buy order executed: 2 shares of BP
+2023-09-15 00:39:44,871 - INFO - Sell order executed: 3 shares of LUV
+2023-09-15 00:39:55,522 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:40:09,112 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:40:13,789 - INFO - Buy order executed: 2 shares of ALK
+2023-09-15 00:40:33,513 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:40:33,513 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:40:42,317 - INFO - Buy order executed: 16 shares of ULCC
+2023-09-15 00:40:45,338 - INFO - Buy order executed: 2 shares of BP
+2023-09-15 00:40:46,110 - INFO - Sell order executed: 3 shares of LUV
+2023-09-15 00:40:56,962 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:41:10,479 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:41:15,087 - INFO - Buy order executed: 2 shares of ALK
+2023-09-15 00:41:34,953 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:41:34,953 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:41:43,491 - INFO - Buy order executed: 15 shares of ULCC
+2023-09-15 00:41:46,759 - INFO - Buy order executed: 2 shares of BP
+2023-09-15 00:41:47,446 - INFO - Sell order executed: 2 shares of LUV
+2023-09-15 00:41:58,401 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:42:11,787 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:42:16,528 - INFO - Buy order executed: 2 shares of ALK
+2023-09-15 00:42:36,395 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:42:36,395 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:42:44,709 - INFO - Buy order executed: 13 shares of ULCC
+2023-09-15 00:42:48,330 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:42:48,783 - INFO - Sell order executed: 2 shares of LUV
+2023-09-15 00:42:59,554 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:43:13,258 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:43:17,866 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:43:37,698 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:43:37,699 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:43:45,857 - INFO - Buy order executed: 12 shares of ULCC
+2023-09-15 00:43:49,562 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:43:50,021 - INFO - Sell order executed: 2 shares of LUV
+2023-09-15 00:44:00,977 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:44:14,665 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:44:19,204 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:44:38,967 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:44:38,967 - INFO - Buy order executed: 1 shares of OXY
+2023-09-15 00:44:47,159 - INFO - Buy order executed: 12 shares of ULCC
+2023-09-15 00:44:50,947 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:44:52,588 - INFO - Sell order executed: 2 shares of LUV
+2023-09-15 00:45:02,519 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:45:15,950 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:45:20,511 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:45:40,307 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:45:40,307 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:45:48,601 - INFO - Buy order executed: 11 shares of ULCC
+2023-09-15 00:45:52,389 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:45:54,027 - INFO - Sell order executed: 2 shares of LUV
+2023-09-15 00:46:04,166 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:46:17,374 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:46:21,908 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:46:41,541 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:46:41,706 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:46:49,937 - INFO - Buy order executed: 10 shares of ULCC
+2023-09-15 00:46:53,728 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:46:55,365 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:47:05,668 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:47:18,815 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:47:23,220 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:47:42,879 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:47:42,880 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:47:51,378 - INFO - Buy order executed: 9 shares of ULCC
+2023-09-15 00:47:55,167 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:47:56,816 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:48:07,148 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:48:20,255 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:48:24,659 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:48:44,280 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:48:44,727 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:48:52,715 - INFO - Buy order executed: 9 shares of ULCC
+2023-09-15 00:48:56,606 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:48:58,242 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:49:08,589 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:49:21,796 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:49:26,300 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:49:45,479 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:49:46,066 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:49:54,051 - INFO - Buy order executed: 8 shares of ULCC
+2023-09-15 00:49:58,421 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:49:59,787 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:50:11,561 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:50:23,235 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:50:27,742 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:50:46,801 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:50:47,254 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:50:55,388 - INFO - Buy order executed: 8 shares of ULCC
+2023-09-15 00:50:59,791 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:51:01,123 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:51:13,717 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:51:24,675 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:51:29,077 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:51:48,148 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:51:48,534 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:51:56,631 - INFO - Buy order executed: 7 shares of ULCC
+2023-09-15 00:52:01,129 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:52:02,563 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:52:15,122 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:52:26,144 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:52:30,479 - INFO - Buy order executed: 1 shares of ALK
+2023-09-15 00:52:49,401 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:52:49,774 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:52:57,960 - INFO - Buy order executed: 7 shares of ULCC
+2023-09-15 00:53:02,569 - INFO - Buy order executed: 1 shares of BP
+2023-09-15 00:53:03,964 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:53:16,499 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:53:27,656 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:53:31,962 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:53:50,727 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:53:51,031 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:53:59,297 - INFO - Buy order executed: 6 shares of ULCC
+2023-09-15 00:54:04,010 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:54:05,342 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:54:17,935 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:54:29,095 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:54:33,397 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:54:51,971 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:54:52,238 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:00,635 - INFO - Buy order executed: 6 shares of ULCC
+2023-09-15 00:55:05,412 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:06,675 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:55:19,477 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:30,536 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:34,836 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:53,159 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:55:53,398 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:01,947 - INFO - Buy order executed: 6 shares of ULCC
+2023-09-15 00:56:06,690 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:08,013 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:56:20,841 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:32,181 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:36,215 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:54,606 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:56:54,606 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:03,413 - INFO - Buy order executed: 6 shares of ULCC
+2023-09-15 00:57:08,346 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:09,351 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:57:22,187 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:33,623 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:37,511 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:56,052 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:57:56,052 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:04,955 - INFO - Buy order executed: 6 shares of ULCC
+2023-09-15 00:58:09,766 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:11,406 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:58:23,514 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:34,979 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:38,713 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:57,493 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:58:57,493 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:06,133 - INFO - Buy order executed: 5 shares of ULCC
+2023-09-15 00:59:11,206 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:12,811 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 00:59:24,889 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:36,297 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:39,982 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:58,824 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 00:59:58,825 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:00:07,426 - INFO - Buy order executed: 5 shares of ULCC
+2023-09-15 01:00:12,749 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:00:14,284 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 01:00:26,215 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:00:37,735 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:00:41,422 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:00,119 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:00,210 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:08,762 - INFO - Buy order executed: 5 shares of ULCC
+2023-09-15 01:01:14,258 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:15,828 - INFO - Sell order executed: 1 shares of LUV
+2023-09-15 01:01:27,702 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:39,175 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:01:42,656 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:01,396 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:01,587 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:09,998 - INFO - Buy order executed: 5 shares of ULCC
+2023-09-15 01:02:15,835 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:17,267 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:02:29,146 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:40,923 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:02:44,097 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:02,706 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:02,790 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:11,233 - INFO - Buy order executed: 5 shares of ULCC
+2023-09-15 01:03:17,343 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:18,707 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:03:30,689 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:42,222 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:03:45,643 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:03,974 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:04,175 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:12,470 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:04:18,786 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:20,148 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:04:32,129 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:43,701 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:04:46,978 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:05,204 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:05,395 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:13,706 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:05:20,360 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:21,486 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:05:33,569 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:45,140 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:05:48,419 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:06,372 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:06,634 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:15,146 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:06:21,972 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:22,923 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:06:34,907 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:46,582 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:06:49,681 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:07,929 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:08,395 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:16,482 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:07:23,323 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:24,174 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:07:36,246 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:48,124 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:07:50,991 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:09,692 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:10,241 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:18,099 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:08:24,852 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:25,811 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:08:38,095 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:49,667 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:08:52,430 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:11,421 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:12,116 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:19,362 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:09:26,216 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:27,617 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:09:40,105 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:51,108 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:09:54,382 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:12,714 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:13,393 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:21,112 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:10:27,744 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:29,404 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:10:41,489 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:52,956 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:10:56,233 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:14,007 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:15,397 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:22,960 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:11:29,719 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:30,951 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:11:42,826 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:55,015 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:11:57,441 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:15,389 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:16,650 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:24,605 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:12:31,553 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:32,285 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:12:44,982 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:56,357 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:12:58,807 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:13:16,792 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:13:17,957 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:13:25,901 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:13:32,889 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:13:33,622 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:13:46,475 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:13:57,791 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:00,247 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:18,167 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:19,292 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:27,179 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:14:34,164 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:34,962 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:14:47,833 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:14:58,981 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:15:01,687 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:15:19,371 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:15:20,592 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:15:28,516 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:15:35,499 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:15:36,300 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:15:49,201 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:00,365 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:02,961 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:20,707 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:21,888 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:29,753 - INFO - Buy order executed: 4 shares of ULCC
+2023-09-15 01:16:36,850 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:16:37,597 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:16:51,108 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:02,110 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:04,293 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:22,043 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:23,270 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:30,993 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:17:38,175 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:17:38,975 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:17:52,493 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:03,658 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:05,496 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:23,314 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:24,747 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:32,326 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:18:39,617 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:18:40,313 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:18:53,932 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:04,835 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:06,834 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:24,755 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:26,188 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:33,970 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:19:40,970 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:19:41,650 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:19:55,531 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:06,042 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:08,172 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:26,160 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:27,527 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:35,370 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:20:42,289 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:20:42,988 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:20:56,875 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:07,421 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:09,510 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:27,533 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:29,274 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:36,751 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:21:43,627 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:21:44,224 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:21:58,272 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:08,699 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:10,956 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:28,876 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:30,719 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:38,094 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:22:45,015 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:22:46,287 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:22:59,906 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:10,148 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:12,359 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:30,323 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:32,065 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:39,541 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:23:46,502 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:23:47,733 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:24:01,661 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:11,594 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:13,746 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:31,667 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:33,407 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:40,948 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:24:47,950 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:24:49,180 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:25:03,006 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:13,040 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:15,089 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:33,215 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:34,854 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:42,330 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:25:49,399 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:25:50,419 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:26:04,451 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:14,485 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:16,535 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:34,660 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:36,157 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:43,468 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:26:51,125 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:26:51,762 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:27:06,203 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:16,035 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:17,980 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:36,006 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:37,437 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:44,811 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:27:52,406 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:27:53,105 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:28:07,548 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:17,581 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:19,424 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:37,262 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:38,780 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:46,256 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:28:53,685 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:28:54,471 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:29:08,989 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:19,026 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:20,868 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:38,791 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:40,185 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:47,597 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:29:54,988 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:29:55,789 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:30:10,536 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:20,471 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:22,313 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:40,460 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:41,503 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:48,777 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:30:56,465 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:30:57,132 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:31:11,980 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:21,914 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:23,583 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:41,908 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:42,809 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:50,075 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:31:57,856 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:31:58,370 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:32:13,323 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:23,358 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:24,893 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:43,128 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:44,145 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:51,416 - INFO - Buy order executed: 3 shares of ULCC
+2023-09-15 01:32:59,085 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:32:59,608 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:33:14,764 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:33:24,759 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:33:26,335 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:33:44,399 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:33:45,486 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:33:52,757 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:34:00,339 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:00,950 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:34:16,309 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:26,141 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:27,882 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:46,071 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:46,784 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:34:53,995 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:35:01,642 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:02,289 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:35:17,757 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:27,441 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:29,324 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:47,298 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:48,167 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:35:55,338 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:36:02,918 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:03,630 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:36:19,298 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:29,026 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:30,664 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:48,655 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:49,614 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:36:56,740 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:37:04,220 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:04,971 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:37:20,945 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:30,313 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:32,006 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:50,102 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:52,178 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:37:58,015 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:38:05,512 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:06,413 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:38:22,797 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:31,604 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:33,451 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:51,470 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:53,518 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:38:59,355 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:39:06,890 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:39:07,823 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:39:24,341 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:39:32,956 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:39:34,794 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:39:52,913 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:39:55,064 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:00,798 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:40:08,928 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:09,027 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:40:25,887 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:34,386 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:36,231 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:55,072 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:40:56,507 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:02,133 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:41:10,330 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:10,330 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:41:27,430 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:35,791 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:37,672 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:56,719 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:41:57,845 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:03,336 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:42:11,683 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:42:11,782 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:28,875 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:37,170 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:39,115 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:58,162 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:42:59,288 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:43:04,614 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:43:12,909 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:43:13,113 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:43:30,524 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:43:38,711 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:43:40,516 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:43:59,673 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:44:00,560 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:44:05,952 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:44:14,147 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:44:14,349 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:44:31,963 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:44:40,414 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:44:41,895 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:00,907 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:01,968 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:07,292 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:45:15,316 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:45:15,586 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:33,419 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:41,905 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:45:43,237 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:02,282 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:03,409 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:08,836 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:46:16,743 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:46:17,028 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:34,848 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:43,449 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:46:44,540 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:03,650 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:04,852 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:10,278 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:47:17,890 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:47:18,367 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:36,390 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:44,822 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:47:45,754 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:05,064 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:06,276 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:11,579 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:48:19,457 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:48:19,529 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:37,935 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:46,193 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:48:47,118 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:06,506 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:07,529 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:12,855 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:49:20,842 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:49:20,842 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:39,234 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:47,569 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:49:48,593 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:07,743 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:08,753 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:14,200 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:50:22,182 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:50:22,347 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:40,615 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:48,974 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:50:50,751 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:09,082 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:10,209 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:15,535 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:51:23,419 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:51:23,624 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:41,957 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:50,274 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:51:52,194 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:10,422 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:11,650 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:16,670 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:52:24,656 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:52:24,861 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:43,395 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:51,649 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:52:53,635 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:53:12,038 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:53:18,008 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:53:22,234 - ERROR - 
+1 Failed download:
+2023-09-15 01:53:22,235 - ERROR - ['XOM']: Exception('%ticker%: No price data found, symbol may be delisted (1d 2023-01-01 -> 2023-09-15)')
+2023-09-15 01:53:25,994 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:53:26,200 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:53:44,735 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:53:53,029 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:53:54,993 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:54:13,408 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:54:19,346 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:54:27,238 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:54:27,436 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:54:46,179 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:54:54,472 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:54:56,315 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:55:14,951 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:55:20,748 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:55:28,468 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:55:28,776 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:55:48,029 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:55:55,874 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:55:57,653 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:56:16,391 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:56:22,091 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:56:29,712 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:56:30,110 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:56:49,565 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:56:57,248 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:56:58,883 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:57:17,826 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:57:23,356 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:57:30,935 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:57:31,444 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:57:51,002 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:57:58,550 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:58:00,319 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:58:19,231 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:58:24,689 - INFO - Buy order executed: 2 shares of ULCC
+2023-09-15 01:58:32,369 - ERROR - Error executing sell order: qty must be > 0
+2023-09-15 01:58:32,777 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:58:52,262 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:58:59,730 - ERROR - Error executing buy order: qty must be > 0
+2023-09-15 01:59:01,754 - ERROR - Error executing buy order: qty must be > 0
