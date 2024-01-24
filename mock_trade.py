@@ -7,8 +7,8 @@ import time
 import math
 
 # Binance API credentials
-api_key = '279fd87e44af088d86695f31ba1f106b69cd71e4cac3bce0c014061af9f6cb04'
-api_secret = 'a374af9fdbbfbf977aea5d98932a16af8b58063fdf83a9ef31f662390f9f4415'
+api_key = 'OzwVefDGfxls1YdjT2oyqOI4jQBtkwJm9lAyqJTp4ZRg8tHIMTDT3iOrwkEzTcor'
+api_secret = 'whyI3nCa6O3BzAHtgl0gvTdv07uMYm27tVF5oExzCBZfn7f4a7q2KiN8sbWEnXCz'
 
 # Initialize Binance client
 client = Client(api_key, api_secret, testnet=True)
@@ -44,20 +44,22 @@ def get_existing_investment(client, symbol):
     return total_investment
 
 def calculate_trade_amount(client, asset, risk_percentage, max_exposure_percentage, symbol):
-    total_balance = get_balance(client, asset)
-    existing_investment = get_existing_investment(client, symbol)
+    """
+    Calculate the amount to trade based on the simulated balance, risk percentage,
+    and maximum exposure per cryptocurrency.
+    """
+    # Simulated balance
+    total_balance = 15000  # Simulated balance of $15,000
+
+    # Assuming no existing investment for simulation purposes
+    existing_investment = 0
+
     max_exposure_amount = total_balance * max_exposure_percentage / 100
-
-    # Calculate how much more can be invested in this cryptocurrency
-    available_for_investment = max(0, max_exposure_amount - existing_investment)  # Prevent negative investment
-
-    # Calculate trade amount based on risk percentage
+    available_for_investment = max_exposure_amount - existing_investment
     trade_amount_based_on_risk = total_balance * risk_percentage / 100
+    trade_amount = min(trade_amount_based_on_risk, available_for_investment)
 
-    # If available_for_investment is 0, it means we should not buy more
-    trade_amount = 0 if available_for_investment == 0 else min(trade_amount_based_on_risk, available_for_investment)
-
-    return trade_amount
+    return max(0, trade_amount)  # Ensure trade amount is not negative
 
 
 def get_lot_size(client, symbol):
@@ -73,31 +75,12 @@ def format_quantity(quantity, lot_size):
     formatted_quantity = round(quantity, precision)
     return formatted_quantity if formatted_quantity > 0 else 0
 
-
 def execute_trade(client, symbol, side, trade_amount):
     """
-    Execute a trade on Binance.
+    Simulate executing a trade on Binance by printing the action to the console.
     """
-    lot_size = get_lot_size(client, symbol)
-
-    # Adjust the trade amount to comply with the lot size
-    formatted_quantity = format_quantity(trade_amount, lot_size)
-
-    if formatted_quantity <= 0:
-        print("Invalid trade amount, skipping trade execution.")
-        return None
-
-    try:
-        if side.lower() == 'buy':
-            order = client.order_market_buy(symbol=symbol, quantity=formatted_quantity)
-        elif side.lower() == 'sell':
-            order = client.order_market_sell(symbol=symbol, quantity=formatted_quantity)
-        else:
-            raise ValueError("Trade side must be 'buy' or 'sell'")
-        return order
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return None
+    # Just print the action instead of executing it
+    print(f"Would execute {side} for {trade_amount} of {symbol}")
 
 
 def fetch_binance_data(client, symbol, interval='1m', lookback='1 day'):
@@ -367,11 +350,9 @@ def main_trading_loop(symbol, interval='1m', risk_percentage=5, max_exposure_per
             if trading_action in ['buy', 'sell']:
                 # Calculate trade amount
                 trade_amount = calculate_trade_amount(client, 'USDT', risk_percentage, max_exposure_percentage, symbol)
-                print(f"Executing {trading_action} for {trade_amount} USDT")
 
-                # Execute trade
-                order_result = execute_trade(client, symbol, trading_action, trade_amount)
-                print(order_result)
+                # Simulate trade execution by printing the intended action
+                execute_trade(client, symbol, trading_action, trade_amount)
             else:
                 print("Holding position")
 
@@ -380,7 +361,6 @@ def main_trading_loop(symbol, interval='1m', risk_percentage=5, max_exposure_per
 
         # Sleep for a while before fetching new data
         time.sleep(sleep_time)
-
 # Example usage
-symbol = 'ETHUSDT'
+symbol = 'BTCUSDT'
 main_trading_loop(symbol)
